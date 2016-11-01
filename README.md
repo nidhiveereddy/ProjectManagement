@@ -1,4 +1,0 @@
-# ProjectManagement
-Contains all code and documentation for the course in applied project management
-
-Alex was here
