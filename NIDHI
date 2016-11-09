@@ -1,0 +1,48 @@
+
+
+
+Among the phases of project lifecycle, the project progress monitoring and control plays a crucial role. The monitoring and controlling process involves controlling the changes and recommending preventive actions for the upcoming problems[pmbok]. To control and monitor the project progress, corrective and preventive actions are taken. Monitoring of a project progress includes the following[pmbok]
+ 
+Tracking progress
+Comparing actual outcome with the expected outcome
+Analyzing variances and impacts
+Making adjustments
+
+
+Initial work plan:
+To track the progress of the project, the project milestones are used. These project milestones help in identifying the critical path and decision points of the project to measure the progress. The milestones in a project are stated in a GANTT chart which includes the start and the end duration of the above stated activities. These activities are given a start and end duration based on the “five day week” work strategy and the estimated effort. The number of working hours per day is the ratio of work effort per activity and number of working days. One day in the GANTT chart is equal to --- working hours of a team member. The GANTT chart is used to monitor the project plan and track the project progress and is given below with the list of activities for each sprint.
+
+
+Control Plan:
+According to PMBOK, the control plan is mainly concerned with the following steps:
+Compare the performance with PMP.
+Analyzing the performance and performing corrective or preventive actions if specified.
+Identifying, tracking and monitoring the risks.
+Maintaining information on the product and its documentation.
+Giving information for progress tracking and status report.
+Updation of current cost and schedules.
+Implementing the approved changes and monitoring them.
+
+
+The project deliverables like PMP, Performance information and rejected change requests act as the inputs for the monitoring and control process. The project deliverables include:
+
+
+Status report: This is the summary of project meetings held within the week involving all the team members.
+Project Management Plan(PMP): PMP gives details of the project scope, its constraints, stakeholders, activities, delivery date to the end user, assumptions, risks and the quality criteria of the product. 
+Change requests: These are the requests by the users or stakeholders to make the mentioned changes in the product. Few of the requests are approved in the upcoming sprints and few of them are rejected.
+
+
+The following techniques are used to monitor and control the project plan:[pmbok]
+
+
+Project Management methodology: This aids a project management team to control and monitor the project and check if it works according to the PMP.
+Project Management Information System(PMIS): PMIS is an automated system used by the project management team to track the execution activities that are scheduled according to the PMP.
+Earned value technique: this is used to measure the project performance as it proceeds from initiation to closure. It also helps in forecasting future performance based on the past records.
+Burndown charts: Burndown charts plot the work done against the elapsed time in a project. It indicates the remaining hours in a sprint. The total effort for the project is calculated by plotting the burndown charts for each sprint. The scrum master adjusts the workflow for each sprint according to the progress tracked in the sprint. 
+Agile project management softwares: Among the various available agile project management softwares, only the open sources softwares are to be selected as per the course regulation. As a result, 
+GANTT chart: The GANTT chart is used to track the project schedule. We drew a GANTT chart for the activities in our project based on their start and end dates which are calculated according to the five day work strategy. Gantt chart consists of the activity duration and it gives the sequence followed by the activities in the project. Checking the Gantt chart, we can estimate the progress and monitor the work of the team members. The milestones represented in a Gantt chart track the project progress. Figure- represents the GANTT chart for our project.
+Velocity Chart: This is used to track the progress from sprint to sprint[ https://www.atlassian.com/software/jira/agile#scrum]. The team velocity can be determined from which we can estimate if the team can meet the expected deadline and plan the next sprint accordingly.
+Project tolerances: Project tolerances are the pre-set limits of a project. Monitoring the project schedules against these pre-set limits identifies the deviation from the project plan and thus sets the corrective actions to limit these deviations.[http://www.stakeholdermap.com/project-management/project-monitoring-and-control.html] 
+
+
+We have decided to implement these techniques to monitor and control the project progress and limit the deviation from the PMP. 
